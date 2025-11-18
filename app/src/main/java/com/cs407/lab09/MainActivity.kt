@@ -40,6 +40,7 @@ import com.cs407.lab09.R
 import com.cs407.lab09.ui.theme.Lab09Theme
 import kotlin.math.roundToInt
 
+// Main Activity
 class MainActivity : ComponentActivity() {
 
     private val viewModel: BallViewModel by viewModels()
